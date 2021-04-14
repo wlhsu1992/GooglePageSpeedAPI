@@ -1,0 +1,92 @@
+﻿// Use this mapping list transfer [ResponseDTO] object to [OutputDTO] object 
+
+[
+  {
+    "InputProperty": "lighthouseResult.categories.performance.score",
+    "OutputProperty": "score"
+  },
+  {
+    "InputProperty": "loadingExperience.overall_category",
+    "OutputProperty": "field.overall_category"
+  },
+  {
+    "InputProperty": "loadingExperience.metrics.CLS.percentile",
+    "OutputProperty": "field.CLS.percentile"
+  },
+  {
+    "InputProperty": "loadingExperience.metrics.CLS.category",
+    "OutputProperty": "field.CLS.category"
+  },
+  {
+    "InputProperty": "loadingExperience.metrics.FCP.percentile",
+    "OutputProperty": "field.FCP.percentile"
+  },
+  {
+    "InputProperty": "loadingExperience.metrics.FCP.category",
+    "OutputProperty": "field.FCP.category"
+  },
+  {
+    "InputProperty": "loadingExperience.metrics.FID.percentile",
+    "OutputProperty": "field.FID.percentile"
+  },
+  {
+    "InputProperty": "loadingExperience.metrics.FID.category",
+    "OutputProperty": "field.FID.category"
+  },
+  {
+    "InputProperty": "loadingExperience.metrics.LCP.percentile",
+    "OutputProperty": "field.LCP.percentile"
+  },
+  {
+    "InputProperty": "loadingExperience.metrics.LCP.category",
+    "OutputProperty": "field.LCP.category"
+  },
+  {
+    "InputProperty": "lighthouseResult.audits.FCP.numericValue",
+    "OutputProperty": "lab.FCP.numericValue"
+  },
+  {
+    "InputProperty": "lighthouseResult.audits.FCP.score",
+    "OutputProperty": "lab.FCP.score"
+  },
+  {
+    "InputProperty": "lighthouseResult.audits.SI.numericValue",
+    "OutputProperty": "lab.SI.numericValue"
+  },
+  {
+    "InputProperty": "lighthouseResult.audits.SI.score",
+    "OutputProperty": "lab.SI.score"
+  },
+  {
+    "InputProperty": "lighthouseResult.audits.LCP.numericValue",
+    "OutputProperty": "lab.LCP.numericValue"
+  },
+  {
+    "InputProperty": "lighthouseResult.audits.LCP.score",
+    "OutputProperty": "lab.LCP.score"
+  },
+  {
+    "InputProperty": "lighthouseResult.audits.TTI.numericValue",
+    "OutputProperty": "lab.TTI.numericValue"
+  },
+  {
+    "InputProperty": "lighthouseResult.audits.TTI.score",
+    "OutputProperty": "lab.TTI.score"
+  },
+  {
+    "InputProperty": "lighthouseResult.audits.TBT.numericValue",
+    "OutputProperty": "lab.TBT.numericValue"
+  },
+  {
+    "InputProperty": "lighthouseResult.audits.TBT.score",
+    "OutputProperty": "lab.TBT.score"
+  },
+  {
+    "InputProperty": "lighthouseResult.audits.CLS.numericValue",
+    "OutputProperty": "lab.CLS.numericValue"
+  },
+  {
+    "InputProperty": "lighthouseResult.audits.CLS.score",
+    "OutputProperty": "lab.CLS.score"
+  }
+]

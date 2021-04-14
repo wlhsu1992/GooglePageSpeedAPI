@@ -1,0 +1,9 @@
+C:\Users\waynechen\Desktop\PageSpeedAPI\PageSpeedAPI\PageSpeedAPI\bin\Release\PageSpeedAPI.exe.config
+C:\Users\waynechen\Desktop\PageSpeedAPI\PageSpeedAPI\PageSpeedAPI\bin\Release\PageSpeedAPI.exe
+C:\Users\waynechen\Desktop\PageSpeedAPI\PageSpeedAPI\PageSpeedAPI\bin\Release\PageSpeedAPI.pdb
+C:\Users\waynechen\Desktop\PageSpeedAPI\PageSpeedAPI\PageSpeedAPI\bin\Release\Newtonsoft.Json.dll
+C:\Users\waynechen\Desktop\PageSpeedAPI\PageSpeedAPI\PageSpeedAPI\bin\Release\Newtonsoft.Json.xml
+C:\Users\waynechen\Desktop\PageSpeedAPI\PageSpeedAPI\PageSpeedAPI\obj\Release\PageSpeedAPI.csproj.CoreCompileInputs.cache
+C:\Users\waynechen\Desktop\PageSpeedAPI\PageSpeedAPI\PageSpeedAPI\obj\Release\PageSpeedAPI.csproj.CopyComplete
+C:\Users\waynechen\Desktop\PageSpeedAPI\PageSpeedAPI\PageSpeedAPI\obj\Release\PageSpeedAPI.exe
+C:\Users\waynechen\Desktop\PageSpeedAPI\PageSpeedAPI\PageSpeedAPI\obj\Release\PageSpeedAPI.pdb

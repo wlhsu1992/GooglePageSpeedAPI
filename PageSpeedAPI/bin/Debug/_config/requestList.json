@@ -1,0 +1,250 @@
+﻿// PageSpeed Insights API Page https://developers.google.com/speed/pagespeed/insights/
+// PageSpeed Insights API Document https://developers.google.com/speed/docs/insights/rest/v5/pagespeedapi/runpagespeed
+// url:The URL to fetch and analyze
+// strategy: The analysis strategy (desktop or mobile) to use, and desktop is the default
+// siteName: Analysis site name (etmall or umall)
+// subSiteName: Analysis sub site name
+
+[
+  // E大網
+  {
+    "url": "https://www.etmall.com.tw",
+    "strategy": "desktop",
+    "siteName": "etmall",
+    "subSiteName": "Index"
+  },
+  {
+    "url": "https://www.etmall.com.tw/Search?keyword=iPhone",
+    "strategy": "desktop",
+    "siteName": "etmall",
+    "subSiteName": "Search"
+  },
+  {
+    "url": "https://www.etmall.com.tw/s/16462",
+    "strategy": "desktop",
+    "siteName": "etmall",
+    "subSiteName": "Store"
+  },
+  {
+    "url": "https://www.etmall.com.tw/c1/26770",
+    "strategy": "desktop",
+    "siteName": "etmall",
+    "subSiteName": "CategoryL"
+  },
+  {
+    "url": "https://www.etmall.com.tw/c2/51456",
+    "strategy": "desktop",
+    "siteName": "etmall",
+    "subSiteName": "CategoryM"
+  },
+  {
+    "url": "https://www.etmall.com.tw/c3/51466",
+    "strategy": "desktop",
+    "siteName": "etmall",
+    "subSiteName": "CategoryS"
+  },
+  {
+    "url": "https://www.etmall.com.tw/i/2501908",
+    "strategy": "desktop",
+    "siteName": "etmall",
+    "subSiteName": "Detail"
+  },
+  {
+    "url": "https://www.etmall.com.tw/np/126819",
+    "strategy": "desktop",
+    "siteName": "etmall",
+    "subSiteName": "NP"
+  },
+  {
+    "url": "https://www.etmall.com.tw/gp/104293",
+    "strategy": "desktop",
+    "siteName": "etmall",
+    "subSiteName": "GP"
+  },
+  {
+    "url": "https://www.etmall.com.tw/HelpCenter/FnQ",
+    "strategy": "desktop",
+    "siteName": "etmall",
+    "subSiteName": "HomeDelivery"
+  },
+
+  //E小網
+  {
+    "url": "https://m.etmall.com.tw",
+    "strategy": "mobile",
+    "siteName": "etmall",
+    "subSiteName": "Index"
+  },
+  {
+    "url": "https://m.etmall.com.tw/Search?keyword=iPhone",
+    "strategy": "mobile",
+    "siteName": "etmall",
+    "subSiteName": "Search"
+  },
+  {
+    "url": "https://m.etmall.com.tw/s/16462",
+    "strategy": "mobile",
+    "siteName": "etmall",
+    "subSiteName": "Store"
+  },
+  {
+    "url": "https://m.etmall.com.tw/c1/26770",
+    "strategy": "mobile",
+    "siteName": "etmall",
+    "subSiteName": "CategoryL"
+  },
+  {
+    "url": "https://m.etmall.com.tw/c2/51456",
+    "strategy": "mobile",
+    "siteName": "etmall",
+    "subSiteName": "CategoryM"
+  },
+  {
+    "url": "https://m.etmall.com.tw/c3/51466",
+    "strategy": "mobile",
+    "siteName": "etmall",
+    "subSiteName": "CategoryS"
+  },
+  {
+    "url": "https://m.etmall.com.tw/i/2501908",
+    "strategy": "mobile",
+    "siteName": "etmall",
+    "subSiteName": "Detail"
+  },
+  {
+    "url": "https://m.etmall.com.tw/np/126819",
+    "strategy": "mobile",
+    "siteName": "etmall",
+    "subSiteName": "NP"
+  },
+  {
+    "url": "https://m.etmall.com.tw/gp/104293",
+    "strategy": "mobile",
+    "siteName": "etmall",
+    "subSiteName": "GP"
+  },
+  {
+    "url": "https://m.etmall.com.tw/HelpCenter/FAQ",
+    "strategy": "mobile",
+    "siteName": "etmall",
+    "subSiteName": "HomeDelivery"
+  },
+
+  //U大網
+  {
+    "url": "https://www.u-mall.com.tw",
+    "strategy": "desktop",
+    "siteName": "umall",
+    "subSiteName": "Index"
+  },
+  {
+    "url": "https://www.u-mall.com.tw/Search?keyword=iPhone",
+    "strategy": "desktop",
+    "siteName": "umall",
+    "subSiteName": "Search"
+  },
+  {
+    "url": "https://www.u-mall.com.tw/s/33598",
+    "strategy": "desktop",
+    "siteName": "umall",
+    "subSiteName": "Store"
+  },
+  {
+    "url": "https://www.u-mall.com.tw/c1/49143",
+    "strategy": "desktop",
+    "siteName": "umall",
+    "subSiteName": "CategoryL"
+  },
+  {
+    "url": "https://www.u-mall.com.tw/c2/34810",
+    "strategy": "desktop",
+    "siteName": "umall",
+    "subSiteName": "CategoryM"
+  },
+  {
+    "url": "https://www.u-mall.com.tw/c3/36507",
+    "strategy": "desktop",
+    "siteName": "umall",
+    "subSiteName": "CategoryS"
+  },
+  {
+    "url": "https://www.u-mall.com.tw/i/2501908",
+    "strategy": "desktop",
+    "siteName": "umall",
+    "subSiteName": "Detail"
+  },
+  {
+    "url": "https://www.u-mall.com.tw/np/87105",
+    "strategy": "desktop",
+    "siteName": "umall",
+    "subSiteName": "NP"
+  },
+  {
+    "url": "https://www.u-mall.com.tw/gp/94165",
+    "strategy": "desktop",
+    "siteName": "umall",
+    "subSiteName": "GP"
+  },
+  {
+    "url": "https://www.u-mall.com.tw/HelpCenter/HomeDelivery",
+    "strategy": "desktop",
+    "siteName": "umall",
+    "subSiteName": "HomeDelivery"
+  },
+
+  // U小網
+  {
+    "url": "https://m.u-mall.com.tw",
+    "strategy": "mobile",
+    "siteName": "umall",
+    "subSiteName": "Index"
+  },
+  {
+    "url": "https://m.u-mall.com.tw/Search?keyword=iPhone",
+    "strategy": "mobile",
+    "siteName": "umall",
+    "subSiteName": "Search"
+  },
+  {
+    "url": "https://m.u-mall.com.tw/s/33598",
+    "strategy": "mobile",
+    "siteName": "umall",
+    "subSiteName": "Store"
+  },
+  {
+    "url": "https://m.u-mall.com.tw/c1/49143",
+    "strategy": "mobile",
+    "siteName": "umall",
+    "subSiteName": "CategoryL"
+  },
+  {
+    "url": "https://m.u-mall.com.tw/c2/34810",
+    "strategy": "mobile",
+    "siteName": "umall",
+    "subSiteName": "CategoryM"
+  },
+  {
+    "url": "https://m.u-mall.com.tw/c3/36507",
+    "strategy": "mobile",
+    "siteName": "umall",
+    "subSiteName": "CategoryS"
+  },
+  {
+    "url": "https://m.u-mall.com.tw/i/2501908",
+    "strategy": "mobile",
+    "siteName": "umall",
+    "subSiteName": "Detail"
+  },
+  {
+    "url": "https://m.u-mall.com.tw/np/87105",
+    "strategy": "mobile",
+    "siteName": "umall",
+    "subSiteName": "NP"
+  },
+  {
+    "url": "https://m.u-mall.com.tw/gp/94165",
+    "strategy": "mobile",
+    "siteName": "umall",
+    "subSiteName": "GP"
+  }
+]
